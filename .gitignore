@@ -1,2 +1,8 @@
 data/
 venv/
+
+# Local datasets should stay on this machine, not in GitHub.
+Dataset/
+
+# macOS metadata files.
+.DS_Store
